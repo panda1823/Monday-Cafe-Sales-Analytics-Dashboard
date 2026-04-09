@@ -1,4 +1,4 @@
-# Monday-Caf-Sales-Analytics-Dashboard
+# Monday-Cafe-Sales-Analytics-Dashboard
 Interactive Power BI dashboard for sales analysis with weekly insights
 
 ##  Overview
