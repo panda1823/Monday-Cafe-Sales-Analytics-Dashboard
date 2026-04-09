@@ -1,11 +1,11 @@
 # Monday-Caf-Sales-Analytics-Dashboard
 Interactive Power BI dashboard for sales analysis with weekly insights
 
-## 📌 Overview
+##  Overview
 
 This project is an interactive Power BI dashboard built to analyze sales performance across products, branches, and time.
 
-## 🚀 Features
+##  Features
 
 * Weekly sales trend analysis
 * Product-wise and branch-wise insights
