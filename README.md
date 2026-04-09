@@ -18,7 +18,10 @@ This project is an interactive Power BI dashboard built to analyze sales perform
 
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/6ea78209-96a3-4bb5-9523-e1762c49e705" />
 
-<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/637ab97b-a375-491d-8358-657d2b1f2ae5" />
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/54e4f06d-e423-49f2-b91a-77555cb54313" />
+
+<img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/c626536b-ede9-4b9b-91a6-224678dce2cf" />
+
 
 <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/bea3f7be-bf2f-4982-a69e-597acb9c2c3a" />
 
