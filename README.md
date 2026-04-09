@@ -8,10 +8,15 @@ This project is an interactive Power BI dashboard built to analyze sales perform
 THIS IS A VIRTUAL ANALYTICS EXPERIENCE PROJECT.
 
 •Performed analytics on 10,000+ transactional records for multi-location retail performance monitoring.
+
 •Built interactive dashboards for week-over-week performance tracking
+
 •Designed KPI monitoring system for category-level performance insights
+
 •Executed ETL workflows using Power Query ensuring structured  reporting datasets
+
 •Generated insights supporting operational decision-making
+
     Tools: Power BI, DAX
 
 ##  Features
